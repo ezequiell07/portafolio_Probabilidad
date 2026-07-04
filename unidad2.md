@@ -56,9 +56,9 @@ Identificación exacta de cuáles grupos presentan diferencias significativas tr
 
 ---
 
-# 📑 Tareas Entregadas - Portafolio Probabilidad
+# Tareas Entregadas - Portafolio Probabilidad
 
-## 📝 ABI: Actividad Bimestral Interactiva
+## ABI: Actividad Bimestral Interactiva
 #### ABI. Actividad Bimestral Interactiva - Grupo G
 - [x] 📎 [Ver Evidencia](ABI_GrupoG.ipynb)
 
@@ -67,7 +67,7 @@ Identificación exacta de cuáles grupos presentan diferencias significativas tr
 
 <hr>
 
-## 💻 APE: Aprendizaje Práctico Experimental
+## APE: Aprendizaje Práctico Experimental
 #### APE 006. Distribución Normal
 - [x] 📎 [Ver Evidencia](APE_006_Normal.ipynb)
 
@@ -85,13 +85,13 @@ Identificación exacta de cuáles grupos presentan diferencias significativas tr
 
 <hr>
 
-## ✍️ AA: Aprendizaje Autónomo
+## AA: Aprendizaje Autónomo
 #### AA. Aprendizaje Autónomo - Grupo G
 - [x] 📎 [Ver Evidencia](AA_GrupoG.ipynb)
 
 <hr>
 
-## 📁 Otros Documentos
+## Otros Documentos
 #### Documento de Respaldo / Identificación
 - [x] 📎 [Ver Evidencia](1000096044.pdf)
 
