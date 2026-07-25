@@ -1,4 +1,4 @@
-## Variables Aleatorias Discretas Notables
+# UNIDAD 02: Variables Aleatorias Discretas Notables
 
 ### Estudio y modelado
 Análisis detallado del comportamiento de variables cuantitativas discretas.
