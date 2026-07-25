@@ -88,32 +88,29 @@ Una empresa embotelladora llena refrescos con un volumen medio de $500 \text{ ml
 
 # Tareas Entregadas - Portafolio Unidad 03
 
-## ABI: Actividad Bimestral Interactiva
-#### ABI 3. Distribuciones Muestrales y Ley de Grandes Números - Grupo G
-- [x] 📎 [Ver Evidencia](ABI3_GrupoG.ipynb)
-
-<hr>
 
 ## APE: Aprendizaje Práctico Experimental
-#### APE 011. Distribución Muestral de Medias y Proporciones
-- [x] 📎 [Ver Evidencia](APE_011_DistribucionesMuestrales.ipynb)
+#### APE 011. Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey)
+- [x] 📎 [Ver Evidencia](Ape_011.ipynb)
 
-#### APE 012. Simulación del Teorema del Límite Central (TLC)
-- [x] 📎 [Ver Evidencia](APE_012_TLC_Simulacion.ipynb)
+#### APE 012. (Análisis Bivariado y Predicción): Implementación de la Correlación de Pearson y ajuste del Modelo de Regresión Lineal Simple por Mínimos Cuadrados Ordinarios (OLS).
+Descripción de la sección
 
-#### APE 013. Proyecto Didáctico Integrador (Avance Final)
-- [x] 📎 [Ver Evidencia](APE_013_ProyectoIntegrador.ipynb)
+- [x] 📎 [Ver Evidencia](APE_012.zip)
 
-<hr>
-
-## AA: Aprendizaje Autónomo
-#### AA 3. Resolución de Problemas y Casos de Estudio - Grupo G
-- [x] 📎 [Ver Evidencia](AA3_GrupoG.ipynb)
+#### APE 013.(Análisis Predictivo Multivariado): Desarrollo de modelos de Regresión Lineal Múltiple y diagnóstico de colinealidad mediante el Factor de Inflación de la Varianza (VIF).
+- [x] 📎 [Ver Evidencia](Practica013_Analisis_Predictivo_Grupo_G.zip)
 
 <hr>
 
-## Proyecto Didáctico y Evaluación
-#### Informe Final del Proyecto Didáctico
-- [x] 📎 [Ver Evidencia](Proyecto_Didactico_Final_GrupoG.pdf)
+#### APE 014. (Modelado Probabilístico Avanzado): Programación de algoritmos de Regresión Logística, clasificación binaria de eventos y evaluación de matrices de confusión.
+- [x] 📎 [Ver Evidencia](APE14.AnalisisProbabilísticoAvanzado.pdf)
+
+<hr>
+
+#### APE 015. (Evaluación Avanzada de Modelos): Construcción de curvas ROC, cálculo del Área Bajo la Curva (métrica AUC) y validación cruzada mediante técnicas de K-Fold.
+- [x] 📎 [Ver Evidencia](Practica015_GrupoG.zip)
+
+
 
 ## [⬅️ Regresar al menú principal](README.md)
